@@ -1,0 +1,267 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+3 0 obj
+<< /Length 4708 >>
+stream
+BT /F2 13 Tf 1 0 0 1 52 790.0 Tm (COLLECTIVE - Literature-Grounded Feasibility Review) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 761.0 Tm (Can We Build Artificial Intelligence from Programmable Living Units?) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 747.0 Tm (A critical comparison with peer-reviewed research) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 733.0 Tm (Version 0.2 | 12 November 2026) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 709.0 Tm (RESEARCH STATUS) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 695.0 Tm (Exploratory, speculative, and unvalidated. The cited studies demonstrate components or) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 681.0 Tm (related phenomena, not the proposed integrated COLLECTIVE system. The purpose is to) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 667.0 Tm (identify testable interfaces and decisive gaps, not to claim novelty or feasibility) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 653.0 Tm (prematurely.) Tj ET
+BT /F2 13 Tf 1 0 0 1 52 629.0 Tm (EXECUTIVE SUMMARY) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 600.0 Tm (COLLECTIVE proposes heterogeneous programmable biological or biohybrid units with) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 586.0 Tm (addressable DNA-based information storage, local electronic processing and RAM, calibrated) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 572.0 Tm (sensors, standardized communications, metabolism, and a speculative processor-directed) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 558.0 Tm (molecular manufacturing interface. The units would learn cooperation and task allocation,) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 544.0 Tm (with emergent organization and physical innovation treated as hypotheses to test.) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 520.0 Tm (Literature supports selected DNA-file retrieval [R1-R4], electronic-biological interfacing) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 506.0 Tm ([R5], stimulus-responsive synthetic-cell protein production [R6-R8,R12], closed-loop) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 492.0 Tm (adaptation in cultured neurons [R9], and self-organized behavior in living cell assemblies) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 478.0 Tm ([R10-R11]. None demonstrates the full architecture or general organic AI.) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 454.0 Tm (The most decisive gaps are random-access DNA readout compatible with practical processor) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 440.0 Tm (execution, general-purpose electronic control of molecular synthesis, stable) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 426.0 Tm (metabolism/material flow, credible attribution of cooperative learning, and tests that) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 412.0 Tm (separate emergent innovation from programmed optimization.) Tj ET
+BT /F2 13 Tf 1 0 0 1 52 388.0 Tm (1. DNA AS AN ADDRESSABLE PROGRAM ARCHIVE) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 359.0 Tm (ESTABLISHED: Organick et al. recovered individually selected files from DNA storage using) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 345.0 Tm (molecular addressing [R1]. Reviews describe progress in selective retrieval and continuing) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 331.0 Tm (bottlenecks including latency, amplification bias, cross-talk, and access scalability) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 317.0 Tm ([R2-R4].) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 293.0 Tm (COLLECTIVE EXTENSION: indexed DNA records contain executable instruction sequences and) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 279.0 Tm (reference data. An electronic processor locates a record, reads and decodes it, places) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 265.0 Tm (instructions into RAM, and executes them \(for example, an FFT routine\).) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 241.0 Tm (GAP: addressability in DNA storage is not equivalent to low-latency, high-endurance) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 227.0 Tm (electronic memory. Molecular readout can be slow and may involve destructive or batch) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 213.0 Tm (processing. Boot logic, ISA, decoding, read bandwidth, error correction, and physical) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 199.0 Tm (coupling remain to be specified.) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 175.0 Tm (FIRST TEST: an explicit latency/energy/error budget for retrieval of a small encoded) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 161.0 Tm (routine, benchmarked against a conventional non-DNA archive. Failure to meet a defined) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 147.0 Tm (threshold is informative.) Tj ET
+BT /F2 13 Tf 1 0 0 1 52 123.0 Tm (2. BIOELECTRONIC AND SENSOR INTERFACES) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 94.0 Tm (ESTABLISHED: Biohybrid platforms combine engineered cell responses and electronic readout) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 80.0 Tm (or control; a recent review maps communication mechanisms, applications, and integration) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 66.0 Tm (limits [R5].) Tj ET
+BT /F1 8 Tf 1 0 0 1 52 28 Tm (COLLECTIVE | Literature Review v0.2 | 1/5) Tj ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 13 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Length 4741 >>
+stream
+BT /F1 9.5 Tf 1 0 0 1 52 780.0 Tm (COLLECTIVE EXTENSION: units have standardized ports for optical, chemical, electrochemical,) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 766.0 Tm (mechanical, and pH measurements; signal processing is local or distributed over a) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 752.0 Tm (predefined serial bus.) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 728.0 Tm (GAP: living sensors drift and respond to context. Electronic and biochemical timescales) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 714.0 Tm (differ; calibration, noise, selectivity, communication bandwidth, power, and) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 700.0 Tm (wet-environment compatibility matter. A serial bus is an engineering assumption, not an) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 686.0 Tm (existing cell organelle.) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 662.0 Tm (FIRST TEST: compare a calibrated sensor-to-processor interface with independent instruments) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 648.0 Tm (under bounded noise and drift; model asynchronous communication overhead before biology is) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 634.0 Tm (involved.) Tj ET
+BT /F2 13 Tf 1 0 0 1 52 610.0 Tm (3. MOLECULAR MANUFACTURING AND SYNTHETIC CELLS) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 581.0 Tm (ESTABLISHED: Temperature-responsive synthetic cells have been shown to regulate protein) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 567.0 Tm (synthesis and cargo release using encapsulated expression machinery [R6]. Synthetic-cell) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 553.0 Tm (and cell-free expression reviews describe advances, and emphasize the continuing gap) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 539.0 Tm (between component construction and fully functional synthetic life [R7,R8,R12].) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 515.0 Tm (COLLECTIVE EXTENSION: a processor specifies molecular products and receives feedback on) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 501.0 Tm (synthesis, folding, assembly, and downstream chemical effects; the long-term concept goes) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 487.0 Tm (beyond conventional ribosomal production.) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 463.0 Tm (GAP: an electronic sequence specification does not physically synthesize a molecule.) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 449.0 Tm (Precursor supply, energy, catalysts, translation or alternative chemistry, folding,) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 435.0 Tm (localization, quality control, and waste management are separate hard problems. General) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 421.0 Tm (ribosome replacement is not demonstrated by stimulus-controlled expression.) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 397.0 Tm (FIRST TEST: develop a requirements matrix for each manufacturing stage and identify which) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 383.0 Tm (stages already have independent experimental demonstrations. No general synthesis claim) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 369.0 Tm (should be made without end-to-end evidence.) Tj ET
+BT /F2 13 Tf 1 0 0 1 52 345.0 Tm (4. BIOLOGICAL ADAPTATION AND COLLECTIVE ORGANIZATION) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 316.0 Tm (ESTABLISHED: DishBrain demonstrated feedback-dependent adaptive behavior in cultured neural) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 302.0 Tm (networks in a constrained game environment [R9]. Xenobots demonstrate self-organization,) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 288.0 Tm (coordinated movement, and group behavior in living cellular constructs [R10]. Bioelectric) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 274.0 Tm (signaling literature describes how cellular networks coordinate large-scale anatomical) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 260.0 Tm (outcomes [R11].) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 236.0 Tm (COLLECTIVE EXTENSION: non-identical units share tasks, adapt communication weights, and) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 222.0 Tm (potentially develop specializations and network hierarchy while solving diverse problems.) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 198.0 Tm (GAP: neuronal adaptation, morphological self-organization, and multi-agent optimization are) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 184.0 Tm (different phenomena. These precedents do not show that arbitrary biohybrid units will) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 170.0 Tm (acquire general intelligence or invent novel hardware. Claims about sentience in paper) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 156.0 Tm (titles should not be imported as established conclusions.) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 132.0 Tm (FIRST TEST: compare heterogeneous learning agents with matched centralized, fixed-rule, and) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 118.0 Tm (randomized baselines on unseen tasks; preregister operational metrics of generalization,) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 104.0 Tm (resource efficiency, and cooperative gain.) Tj ET
+BT /F1 8 Tf 1 0 0 1 52 28 Tm (COLLECTIVE | Literature Review v0.2 | 2/5) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 13 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 4632 >>
+stream
+BT /F2 13 Tf 1 0 0 1 52 790.0 Tm (5. REWARD AND CREDIT ASSIGNMENT) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 761.0 Tm (COLLECTIVE proposes both individual scores and collective outcomes. Reward may reflect) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 747.0 Tm (accuracy, verified task completion, speed, computation contributed, and resource cost. A) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 733.0 Tm (unit that consumes more computation may appear more deserving under a raw-work metric, but) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 719.0 Tm (that can encourage waste. An efficient unit may finish the same task faster with fewer) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 705.0 Tm (operations.) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 681.0 Tm (This is a mechanism-design hypothesis, not a validated biological reward system. Compare) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 667.0 Tm (multiple reward policies, including work-weighted, marginal-contribution,) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 653.0 Tm (efficiency-adjusted, and team-only variants. Record redundant computation, strategic delay,) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 639.0 Tm (message flooding, free-riding, and changes in network centrality.) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 615.0 Tm (The question is not merely whether hierarchy emerges, but whether any hierarchy improves) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 601.0 Tm (held-out task performance or exploits the scoring rule.) Tj ET
+BT /F2 13 Tf 1 0 0 1 52 577.0 Tm (6. PHYSICAL INNOVATION AND NOVELTY) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 548.0 Tm (COLLECTIVE deliberately does not supply explicit goals such as grow an organ, move, add) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 534.0 Tm (hardware, or replicate. Instead, it asks whether problem-solving units could discover) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 520.0 Tm (useful intermediate physical capabilities, provided their interfaces permit some design,) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 506.0 Tm (fabrication, and evaluation.) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 482.0 Tm (A novel-looking outcome may still be a recombination of stored designs, a consequence of a) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 468.0 Tm (generic optimizer, or an artifact of the evaluator. Therefore maintain a complete inventory) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 454.0 Tm (of preloaded programs and permitted actions. Test unseen constraints, blinded artifact) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 440.0 Tm (evaluation, and performance relative to ablated agents.) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 416.0 Tm (This remains a long-range experimental hypothesis. No cited study demonstrates this outcome) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 402.0 Tm (for the proposed architecture.) Tj ET
+BT /F2 13 Tf 1 0 0 1 52 378.0 Tm (7. COMPARATIVE FEASIBILITY MATRIX) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 349.0 Tm (Subsystem | Literature-supported baseline | COLLECTIVE target | Current assessment) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 335.0 Tm (DNA retrieval | selective molecular file access [R1-R4] | executable random-access archive) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 321.0 Tm (| major interface gap) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 307.0 Tm (Bioelectronics | sensing and control links [R5] | standardized multi-sensor unit | partial) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 293.0 Tm (precedent) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 279.0 Tm (Synthetic cells | regulated expression/cargo release [R6-R8] | general processor-directed) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 265.0 Tm (synthesis | very large gap) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 251.0 Tm (Metabolism | components in living and cell-free systems [R7,R12] | integrated sustained) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 237.0 Tm (resource economy | major gap) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 223.0 Tm (Adaptive behavior | constrained neural adaptation [R9] | transferable multi-unit learning |) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 209.0 Tm (unproven integration) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 195.0 Tm (Self-organization | cellular assembly and bioelectric patterning [R10,R11] | open-ended) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 181.0 Tm (physical innovation | speculative) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 157.0 Tm (These qualitative judgments are provisional and are not technology-readiness-level ratings.) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 143.0 Tm (The literature search is selective, not a systematic review.) Tj ET
+BT /F2 13 Tf 1 0 0 1 52 119.0 Tm (8. PRIORITIZED RESEARCH PROGRAM) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 90.0 Tm (PHASE A: Formalize terms and baselines. Specify intelligence, novelty, adaptation,) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 76.0 Tm (collective advantage, and failure criteria. Publish a feasibility matrix with verified) Tj ET
+BT /F1 8 Tf 1 0 0 1 52 28 Tm (COLLECTIVE | Literature Review v0.2 | 3/5) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 13 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 4563 >>
+stream
+BT /F1 9.5 Tf 1 0 0 1 52 790.0 Tm (citations.) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 766.0 Tm (PHASE B: Digital experiments. Simulate heterogeneous units with limited compute, energy,) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 752.0 Tm (memory, and bus bandwidth. Compare rewards and topology adaptation. Test unseen tasks and) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 738.0 Tm (adverse incentives.) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 714.0 Tm (PHASE C: Quantitative interface review. Estimate DNA access latency, throughput, read) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 700.0 Tm (errors, energy, and cost. Evaluate sensor bandwidth and chemical feedback. Map the material) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 686.0 Tm (and energy balance of molecular production.) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 662.0 Tm (PHASE D: Independent, institutionally supervised component validation if justified by prior) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 648.0 Tm (evidence and safety review. Avoid claiming that success of one interface implies an) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 634.0 Tm (integrated living AI system.) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 610.0 Tm (PHASE E: Decide whether integration is justified, and publish negative results. Investigate) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 596.0 Tm (emergence only after a reproducible platform exists.) Tj ET
+BT /F2 13 Tf 1 0 0 1 52 572.0 Tm (9. LIMITATIONS AND INVITATION) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 543.0 Tm (This report is not a systematic literature review; it draws on a selected set of verified) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 529.0 Tm (peer-reviewed papers and reviews. It does not establish that the overall COLLECTIVE) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 515.0 Tm (combination is unique, patentable, safe, or achievable. A comprehensive prior-art search,) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 501.0 Tm (expert assessment, and formal evidence grading are needed before strong novelty claims.) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 477.0 Tm (Potential collaborators: synthetic biology, bioelectronics, DNA data storage, molecular) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 463.0 Tm (manufacturing, microbiology, artificial life, distributed learning, computer architecture,) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 449.0 Tm (control theory, materials science, and research ethics.) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 425.0 Tm (Contributors are invited to identify an established capability, a missing interface, a) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 411.0 Tm (quantitative bottleneck, a falsifying experiment, or a simpler alternative architecture.) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 387.0 Tm (Repository: https://github.com/altugkuran/COLLECTIVE-organic-AI) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 363.0 Tm (CENTRAL QUESTION: Can learned cooperation among programmable living units produce) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 349.0 Tm (organically embodied artificial intelligence? The answer remains unknown.) Tj ET
+BT /F2 13 Tf 1 0 0 1 52 325.0 Tm (REFERENCES) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 296.0 Tm ([R1] Organick et al. \(2018\). Random access in large-scale DNA data storage. Nature) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 282.0 Tm (Biotechnology. DOI: 10.1038/nbt.4079) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 268.0 Tm (https://pubmed.ncbi.nlm.nih.gov/29457795/) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 244.0 Tm ([R2] Yu et al. \(2026\). Random access elevates DNA from a storage medium to a storage) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 230.0 Tm (system. Trends in Biotechnology. DOI: 10.1016/j.tibtech.2026.06.020) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 216.0 Tm (https://www.sciencedirect.com/science/article/pii/S0167779926002799) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 192.0 Tm ([R3] Zhou et al. \(2024\). Advances and Challenges in Random Access Techniques for In Vitro) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 178.0 Tm (DNA Data Storage. ACS Applied Materials & Interfaces. DOI: 10.1021/acsami.4c07235) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 164.0 Tm (https://pubmed.ncbi.nlm.nih.gov/39110103/) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 140.0 Tm ([R4] DNA as a universal chemical substrate \(2024\). DNA as a universal chemical substrate) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 126.0 Tm (for computing and data storage. Nature Reviews Chemistry. DOI: 10.1038/s41570-024-00576-4) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 112.0 Tm (https://www.nature.com/articles/s41570-024-00576-4) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 88.0 Tm ([R5] Integrating bioelectronics \(2025\). Integrating bioelectronics with cell-based) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 74.0 Tm (synthetic biology. Nature Reviews Bioengineering. DOI: 10.1038/s44222-024-00262-6) Tj ET
+BT /F1 8 Tf 1 0 0 1 52 28 Tm (COLLECTIVE | Literature Review v0.2 | 4/5) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 13 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 2547 >>
+stream
+BT /F1 9.5 Tf 1 0 0 1 52 790.0 Tm (https://www.nature.com/articles/s44222-024-00262-6) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 766.0 Tm ([R6] Monck, Elani & Ceroni \(2024\). Genetically programmed synthetic cells for) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 752.0 Tm (thermo-responsive protein synthesis and cargo release. Nature Chemical Biology. DOI:) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 738.0 Tm (10.1038/s41589-024-01673-7) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 724.0 Tm (https://www.nature.com/articles/s41589-024-01673-7) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 700.0 Tm ([R7] Rothschild \(2024\). Building Synthetic Cells-From the Technology Infrastructure to) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 686.0 Tm (Cellular Entities. ACS Synthetic Biology. DOI: 10.1021/acssynbio.3c00724) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 672.0 Tm (https://pmc.ncbi.nlm.nih.gov/articles/PMC11037263/) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 648.0 Tm ([R8] Samanta et al. \(2024\). DNA-empowered synthetic cells as minimalistic life forms.) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 634.0 Tm (Nature Reviews Chemistry. DOI: 10.1038/s41570-024-00606-1) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 620.0 Tm (https://www.nature.com/articles/s41570-024-00606-1) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 596.0 Tm ([R9] Kagan et al. \(2022\). In vitro neurons learn and exhibit sentience when embodied in a) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 582.0 Tm (simulated game-world. Neuron. DOI: 10.1016/j.neuron.2022.09.001) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 568.0 Tm (https://doi.org/10.1016/j.neuron.2022.09.001) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 544.0 Tm ([R10] Blackiston et al. \(2021\). A cellular platform for the development of synthetic living) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 530.0 Tm (machines. Science Robotics. DOI: 10.1126/scirobotics.abf1571) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 516.0 Tm (https://pubmed.ncbi.nlm.nih.gov/34043553/) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 492.0 Tm ([R11] Levin \(2021\). Bioelectric signaling: Reprogrammable circuits underlying) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 478.0 Tm (embryogenesis, regeneration, and cancer. Cell. DOI: 10.1016/j.cell.2021.02.034) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 464.0 Tm (https://pubmed.ncbi.nlm.nih.gov/33826908/) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 440.0 Tm ([R12] Cell-Free Gene Expression \(2025\). Cell-Free Gene Expression: Methods and) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 426.0 Tm (Applications. Chemical Reviews. DOI: 10.1021/acs.chemrev.4c00116) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 52 412.0 Tm (https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00116) Tj ET
+BT /F1 8 Tf 1 0 0 1 52 28 Tm (COLLECTIVE | Literature Review v0.2 | 5/5) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 13 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R 12 0 R] /Count 5 >>
+endobj
+14 0 obj
+<< /Type /Catalog /Pages 13 0 R >>
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000009 00000 n 
+0000000079 00000 n 
+0000000154 00000 n 
+0000004913 00000 n 
+0000005050 00000 n 
+0000009842 00000 n 
+0000009979 00000 n 
+0000014662 00000 n 
+0000014799 00000 n 
+0000019413 00000 n 
+0000019551 00000 n 
+0000022150 00000 n 
+0000022289 00000 n 
+0000022373 00000 n 
+trailer
+<< /Size 15 /Root 14 0 R >>
+startxref
+22424
+%%EOF
