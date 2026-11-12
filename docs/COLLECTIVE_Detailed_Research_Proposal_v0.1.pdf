@@ -1,0 +1,256 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+3 0 obj
+<< /Length 4825 >>
+stream
+BT /F2 14 Tf 1 0 0 1 52 790.0 Tm (COLLECTIVE: RESEARCH PROPOSAL) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 762.0 Tm (Can We Build Artificial Intelligence from Programmable Living Units?) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 748.0 Tm (Bridging Biological Computation, Molecular Manufacturing, and Emergent Collective) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 734.0 Tm (Intelligence) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 720.0 Tm (Version 0.1 | 12 November 2026 | Open interdisciplinary discussion) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 696.0 Tm (ABSTRACT) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 682.0 Tm (COLLECTIVE is an exploratory research proposal asking whether heterogeneous programmable) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 668.0 Tm (biological or biohybrid units could develop learned cooperation and, under suitable) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 654.0 Tm (conditions, emergent organically embodied artificial intelligence. Each hypothetical unit) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 640.0 Tm (combines local computation, addressable biological information storage, sensing,) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 626.0 Tm (communication, metabolism, and a molecular-production interface. The proposal separates) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 612.0 Tm (feasible component-level research from unproven integration and from the much stronger claim) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 598.0 Tm (of emergent intelligence. The initial research program prioritizes critical literature) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 584.0 Tm (review, falsifiable digital models, quantitative feasibility bounds, and institutionally) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 570.0 Tm (supervised component experiments only if warranted.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 546.0 Tm (This document is a concept paper, not evidence that the architecture works, a wet-lab) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 532.0 Tm (protocol, or a claim that intelligence will emerge.) Tj ET
+BT /F2 14 Tf 1 0 0 1 52 508.0 Tm (1. THE CENTRAL QUESTIONS) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 480.0 Tm (ENGINEERING QUESTION) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 466.0 Tm (Which interfaces can present-day science provide to combine computation, molecular) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 452.0 Tm (manufacturing, and learned cooperation in programmable biological units?) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 428.0 Tm (SCIENTIFIC QUESTION) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 414.0 Tm (Could the resulting network, if constructed, exhibit adaptive capabilities not reducible to) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 400.0 Tm (a fixed repertoire of preprogrammed behaviors? Could this justify describing the system as) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 386.0 Tm (organically embodied artificial intelligence?) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 362.0 Tm (COLLECTIVE does not equate computation with intelligence, cooperation with consciousness, or) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 348.0 Tm (a novel behavior with spontaneous evolution. Intelligence must be defined operationally) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 334.0 Tm (using generalization, adaptive problem solving, transfer to unseen tasks, and robustness) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 320.0 Tm (under controlled comparisons. Consciousness is not an assumed outcome or necessary success) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 306.0 Tm (criterion.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 282.0 Tm (A useful negative result would establish that a key interface is physically infeasible, or) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 268.0 Tm (that distributed learning provides no advantage over simpler baselines.) Tj ET
+BT /F2 14 Tf 1 0 0 1 52 244.0 Tm (2. CONCEPTUAL UNIT ARCHITECTURE) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 216.0 Tm (The starting unit is a hypothetical cell-like or compartmentalized biohybrid module. Initial) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 202.0 Tm (dimensions are deliberately unconstrained; a coin-sized module is a thought experiment, not) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 188.0 Tm (a claim that a single natural cell can be enlarged without transport and homeostasis) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 174.0 Tm (constraints.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 150.0 Tm (A. Addressable DNA archive: DNA encodes indexed information and potentially executable) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 136.0 Tm (instruction sequences. The processor knows an address scheme and can request selected) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 122.0 Tm (segments. DNA is NOT assumed to offer electronic random-access speeds. Reading, indexing,) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 108.0 Tm (latency, errors, durability, and molecular access remain open problems.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 84.0 Tm (B. Processor and RAM: a defined boot routine, instruction-set representation, local working) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 70.0 Tm (memory, and an interface to retrieve encoded routines. An FFT routine could in principle be) Tj ET
+BT /F1 8 Tf 1 0 0 1 52 30 Tm (COLLECTIVE - Concept Paper v0.1 | Page 1 of 5) Tj ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 13 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Length 5055 >>
+stream
+BT /F1 10 Tf 1 0 0 1 52 790.0 Tm (loaded and executed if encoding, readout, and decoding are actually engineered. DNA storage) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 776.0 Tm (alone does not execute algorithms.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 752.0 Tm (C. Sensor interfaces: optical, electrochemical, chemical, mechanical, pH, and other) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 738.0 Tm (environmental sensing, with calibration, bandwidth, noise, and feedback estimates.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 714.0 Tm (D. Communication: an initially supplied common serial bus/protocol supports heterogeneous) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 700.0 Tm (units, remote calculation requests, and synchronized measurements. The system is not) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 686.0 Tm (expected to invent basic communication from scratch.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 662.0 Tm (E. Metabolism: energy, material precursors, transport, repair, and waste disposal are) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 648.0 Tm (explicit requirements. Electrical power is not interchangeable with ATP or molecular) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 634.0 Tm (feedstock.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 610.0 Tm (F. Molecular production: a speculative processor-directed manufacturing interface, possibly) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 596.0 Tm (more general than a natural ribosome. Sequence specification, synthesis, folding, assembly,) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 582.0 Tm (quality control, and recycling are distinct challenges. This subsystem is not currently a) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 568.0 Tm (standard electronic port.) Tj ET
+BT /F2 14 Tf 1 0 0 1 52 544.0 Tm (3. COMPUTATION AND COOPERATION) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 516.0 Tm (Units begin with different sensing and processing capacities. A complex task may be) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 502.0 Tm (decomposed into subtasks; one unit measures, another selects sampling conditions, another) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 488.0 Tm (executes spectral analysis, and another validates a proposed interpretation. The bus) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 474.0 Tm (transfers data, uncertainty, and requests. Local memory and connection strengths change with) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 460.0 Tm (feedback.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 436.0 Tm (An illustrative computation is signal processing: estimate sensor bandwidth and relevant) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 422.0 Tm (frequency range; select a sampling interval; retrieve an encoded FFT implementation; perform) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 408.0 Tm (or delegate calculation; validate against noise and independent measurements. Parallel) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 394.0 Tm (processing must account for communication overhead, synchronization, and energy costs.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 370.0 Tm (Network topology, specialization, centrality, and hierarchy are observable outcomes rather) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 356.0 Tm (than mandatory initial organizational structures. Links may strengthen or weaken based on) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 342.0 Tm (measured utility, within bounded connectivity and resource budgets.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 318.0 Tm (A central methodological challenge is disentangling actual collective learning from ordinary) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 304.0 Tm (distributed computing. Baselines must include fixed-rule agents, non-learning agents,) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 290.0 Tm (centralized computation, randomized network topology, and resource-matched alternatives.) Tj ET
+BT /F2 14 Tf 1 0 0 1 52 266.0 Tm (4. REWARD DESIGN AND FAILURE MODES) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 238.0 Tm (The proposed ecology gives individual units scores and the collective a shared task outcome.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 224.0 Tm (Candidate reward dimensions include correctness, time to a verified answer, computational) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 210.0 Tm (work contributed, energy/material cost, and measurable harmful side effects.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 186.0 Tm (Rewarding raw computation alone invites gaming: a unit can perform unnecessary operations to) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 172.0 Tm (earn credit. Rewarding only speed or low resource use can discourage difficult but essential) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 158.0 Tm (analysis. A research program should compare policies and use ablations rather than assume a) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 144.0 Tm (correct formula. Contribution should be estimated against task improvement, redundant work,) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 130.0 Tm (and counterfactual baselines where possible.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 106.0 Tm (Other anticipated failures include free-riding, communication flooding, premature consensus,) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 92.0 Tm (overconfident sensor fusion, dominance by highly connected units, reward hacking, and) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 78.0 Tm (accumulation of misleading memory. A hierarchy may emerge, but network centrality alone does) Tj ET
+BT /F1 8 Tf 1 0 0 1 52 30 Tm (COLLECTIVE - Concept Paper v0.1 | Page 2 of 5) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 13 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 4581 >>
+stream
+BT /F1 10 Tf 1 0 0 1 52 790.0 Tm (not prove authority, intelligence, or beneficial specialization.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 766.0 Tm (No reward system is currently validated. Defining incentive mechanisms is itself a major) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 752.0 Tm (independent research problem.) Tj ET
+BT /F2 14 Tf 1 0 0 1 52 728.0 Tm (5. EXAMPLE TASKS AND FEEDBACK) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 700.0 Tm (Chemical example: reactive oxygen species \(ROS\), not ordinary molecular oxygen O2. The) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 686.0 Tm (network might identify a reactive species, measure local chemistry, evaluate candidate) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 672.0 Tm (responses, and detect byproducts. If a measured product is harmful, the proposed response) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 658.0 Tm (receives negative feedback and an independent safety layer stops production. This does not) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 644.0 Tm (eliminate risks from delayed or undetected products. It is a conceptual feedback example,) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 630.0 Tm (not a biochemical protocol or therapeutic proposal.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 606.0 Tm (Non-chemical examples should precede any physical intervention: adaptive signal analysis,) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 592.0 Tm (distributed estimation, mathematical problem decomposition, sensor calibration, and) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 578.0 Tm (coordination under communication limits.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 554.0 Tm (To avoid circular claims of intelligence, held-out tasks must be genuinely unseen; initial) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 540.0 Tm (stored programs and reference knowledge must be audited. A solution assembled from a stored) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 526.0 Tm (blueprint differs from inventing a new physical capability.) Tj ET
+BT /F2 14 Tf 1 0 0 1 52 502.0 Tm (6. THE EMERGENCE HYPOTHESIS) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 474.0 Tm (The strongest speculative question is whether a collective, instructed only to solve) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 460.0 Tm (problems, could discover useful intermediate goals and physical adaptations without explicit) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 446.0 Tm (commands to move, build an appendage, add hardware, or replicate. None of these behaviors is) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 432.0 Tm (to be included as a prescribed objective.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 408.0 Tm (Nevertheless, physical innovation requires a real action space: sensing, actuation, material) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 394.0 Tm (handling, fabrication possibilities, and testing. A system cannot discover a physical) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 380.0 Tm (capability that its environment and interfaces make impossible. The absence of an explicit) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 366.0 Tm (instruction does not prove novelty; a general optimizer can produce unexpected actions) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 352.0 Tm (without general intelligence.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 328.0 Tm (Possible tests include unseen environmental constraints, blinded evaluation of new) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 314.0 Tm (artifacts, exhaustive logging of accessible prior blueprints, comparisons with non-learning) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 300.0 Tm (optimizers, and tests of whether a proposed structure improves independently measured task) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 286.0 Tm (performance.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 262.0 Tm (Whether such abilities appear is an experimental outcome, not an assumption.) Tj ET
+BT /F2 14 Tf 1 0 0 1 52 238.0 Tm (7. FEASIBILITY GAPS) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 210.0 Tm (DNA interface: address selection, targeted reading, read speed, random access, molecular) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 196.0 Tm (degradation, error correction, and instruction encoding.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 172.0 Tm (Electronic-biological coupling: sensor transduction, noise, drift, electrical isolation,) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 158.0 Tm (compatibility with wet biochemical environments, and repair.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 134.0 Tm (Molecular manufacturing: reliable precursor delivery, selective chemistry, folding and) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 120.0 Tm (assembly, toxicity monitoring, and reproducibility.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 96.0 Tm (Metabolic integration: ATP and other energy carriers, thermodynamic budgets, transport) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 82.0 Tm (across compartments, waste removal, and sustained homeostasis.) Tj ET
+BT /F1 8 Tf 1 0 0 1 52 30 Tm (COLLECTIVE - Concept Paper v0.1 | Page 3 of 5) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 13 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 4654 >>
+stream
+BT /F1 10 Tf 1 0 0 1 52 790.0 Tm (Distributed learning: nonstationary reward, contribution attribution, asynchronous) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 776.0 Tm (signaling, limited bandwidth, and reliable shared semantics.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 752.0 Tm (Scale and safety: physical containment, unintended interactions, observability, independent) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 738.0 Tm (shutdown, institutional oversight, and clear boundaries against uncontrolled replication.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 714.0 Tm (These gaps should be assessed separately before any integrated feasibility claim.) Tj ET
+BT /F2 14 Tf 1 0 0 1 52 690.0 Tm (8. RESEARCH PROGRAM AND MILESTONES) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 662.0 Tm (PHASE 0: Critical literature review and feasibility matrix. For each subsystem record) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 648.0 Tm (demonstrated capability, proposed extension, quantitative gap, relevant literature, and) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 634.0 Tm (failure criteria.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 610.0 Tm (PHASE 1: Digital models of heterogeneous agents with bounded energy, compute, memory, and) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 596.0 Tm (communication. Benchmark cooperation, learning, reward gaming, and topology changes against) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 582.0 Tm (centralized and fixed-rule controls.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 558.0 Tm (PHASE 2: Interface-focused theoretical and engineering studies. Quantify DNA retrieval) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 544.0 Tm (bandwidth and latency; sensor readout and uncertainty; molecular production limits; energy) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 530.0 Tm (and mass balances.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 506.0 Tm (PHASE 3: Modular, contained laboratory validation only with qualified teams, relevant) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 492.0 Tm (approvals, and independent safety assessment. Test interfaces separately before considering) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 478.0 Tm (integration.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 454.0 Tm (PHASE 4: Decide whether an integrated system is scientifically justified. Document negative) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 440.0 Tm (findings. Only after robust integration should claims about emergence be investigated.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 416.0 Tm (Success criteria should be measurable and preregistered where feasible. Avoid treating a) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 402.0 Tm (simulation demonstration as evidence of biological implementability.) Tj ET
+BT /F2 14 Tf 1 0 0 1 52 378.0 Tm (9. TEAM AND COLLABORATION) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 350.0 Tm (A first review group could include a synthetic biologist or biochemist, a) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 336.0 Tm (bioelectronics/computer architecture researcher, and an artificial-life/distributed-learning) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 322.0 Tm (researcher. Later work may require microbiology, molecular data storage, materials science,) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 308.0 Tm (control theory, chemical engineering, bioethics, and safety expertise.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 284.0 Tm (Suggested initial deliverables: a shared glossary; a feasibility matrix; a minimal digital) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 270.0 Tm (simulator; a risk register; and a prioritized list of falsifiable questions. This approach) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 256.0 Tm (does not require establishing a wet laboratory at the outset.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 232.0 Tm (Open collaboration should welcome skeptical critiques, prior-art references, negative) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 218.0 Tm (results, and comparisons to simpler alternatives. Project governance, credit, licensing, and) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 204.0 Tm (experimental oversight should be decided with collaborators before substantive work.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 180.0 Tm (GitHub: https://github.com/altugkuran/COLLECTIVE-organic-AI) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 166.0 Tm (Contributions: open an issue stating the subsystem, established evidence, principal) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 152.0 Tm (obstacle, and a safe discriminating test.) Tj ET
+BT /F2 14 Tf 1 0 0 1 52 128.0 Tm (10. SCIENTIFIC POSITION AND LIMITATIONS) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 100.0 Tm (COLLECTIVE is not a working organism, not a validated artificial intelligence, not a) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 86.0 Tm (proposal to bypass existing biology, and not a demonstration of self-organizing life. The) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 72.0 Tm (combination of DNA storage, a digital processor, molecular manufacturing, and autonomous) Tj ET
+BT /F1 8 Tf 1 0 0 1 52 30 Tm (COLLECTIVE - Concept Paper v0.1 | Page 4 of 5) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 13 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 1350 >>
+stream
+BT /F1 10 Tf 1 0 0 1 52 790.0 Tm (collective learning is substantially beyond current integrated demonstrations.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 766.0 Tm (The concept draws broad motivation from research areas including DNA data storage, synthetic) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 752.0 Tm (biological circuits, bioelectronic interfaces, molecular manufacturing, artificial life,) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 738.0 Tm (collective intelligence, and embodied intelligence. Specific prior-art claims and a verified) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 724.0 Tm (bibliography are future work; this draft deliberately does not invent citations.) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 700.0 Tm (The principal research value may be in identifying impossible assumptions, building useful) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 686.0 Tm (hybrid interfaces, or discovering that simpler systems suffice. The long-term question) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 672.0 Tm (remains open:) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 648.0 Tm (CAN PROGRAMMABLE LIVING UNITS, THROUGH LEARNED COOPERATION, GIVE RISE TO ORGANICALLY) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 634.0 Tm (EMBODIED ARTIFICIAL INTELLIGENCE?) Tj ET
+BT /F1 10 Tf 1 0 0 1 52 610.0 Tm (This question should be answered by evidence, not by design ambition.) Tj ET
+BT /F1 8 Tf 1 0 0 1 52 30 Tm (COLLECTIVE - Concept Paper v0.1 | Page 5 of 5) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 13 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R 12 0 R] /Count 5 >>
+endobj
+14 0 obj
+<< /Type /Catalog /Pages 13 0 R >>
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000009 00000 n 
+0000000079 00000 n 
+0000000154 00000 n 
+0000005030 00000 n 
+0000005167 00000 n 
+0000010273 00000 n 
+0000010410 00000 n 
+0000015042 00000 n 
+0000015179 00000 n 
+0000019884 00000 n 
+0000020022 00000 n 
+0000021424 00000 n 
+0000021563 00000 n 
+0000021647 00000 n 
+trailer
+<< /Size 15 /Root 14 0 R >>
+startxref
+21698
+%%EOF
